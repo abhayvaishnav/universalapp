@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611561236574",
+    "project_id": "universalnotes-78272",
+    "storage_bucket": "universalnotes-78272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611561236574:android:85c64e2e163a81e78a2ccf",
+        "android_client_info": {
+          "package_name": "com.example.universalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611561236574-kf4706j6vldu7ua0c5c62m50qba9spjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68VdlGVE-b61bUyLQIAXPaA95o-Zkahs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611561236574-kf4706j6vldu7ua0c5c62m50qba9spjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
